@@ -29,7 +29,7 @@ Current version extracts the following properties:
   
 ## Default namespaces  
 Default namespaces from Garmin  
-| Namespace |-- URI --|  
+| Namespace | URI |  
 | ------------- |:-------------:|  
 | ns | http://www.garmin.com/xmlschemas/TrainingCenterDatabase/v2 |
 | ns2 | http://www.garmin.com/xmlschemas/UserProfile/v2 |  
@@ -65,7 +65,9 @@ tcxparser.powers
 
 # Compatibility  
 | 3.6 | 3.7 | 3.8 | 3.9 |  
+|:--------:|:--------:|:--------:|:--------:|  
 | + | + | + | + |  
+  
 '+' confirmed compatibility  
 
 # License  
